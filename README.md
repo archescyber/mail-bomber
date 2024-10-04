@@ -17,16 +17,16 @@ Users must ensure that they read and understand the `mail.txt` file format befor
 
 ## How to get SMTP key?
 
-**1. Enable Two-Step Verification:** Activate two-step verification on your Google account.
+**- Enable Two-Step Verification:** Activate two-step verification on your Google account.
 
 
-**2. Create an App Password:** Type "app password" in the search bar of your Google account to access the password creation section.
+**- Create an App Password:** Type "app password" in the search bar of your Google account to access the password creation section.
 
 
-**3. Generate SMTP Password:** Create an app password named "SMTP" in the password creation section and copy it.
+**- Generate SMTP Password:** Create an app password named "SMTP" in the password creation section and copy it.
 
 
-**4. SMTP Password Ready:** Your SMTP password is now ready to be used with the software.
+**- SMTP Password Ready:** Your SMTP password is now ready to be used with the software.
 
 
 ### mail.txt File Format
