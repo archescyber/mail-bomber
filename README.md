@@ -15,6 +15,20 @@ This project is a Python-based tool designed for sending mass emails. It allows 
 
 Users must ensure that they read and understand the `mail.txt` file format before running the program. This file is essential for the tool to function properly.
 
+## How to get SMTP key?
+
+**1. Enable Two-Step Verification:** Activate two-step verification on your Google account.
+
+
+**2. Create an App Password:** Type "app password" in the search bar of your Google account to access the password creation section.
+
+
+**3. Generate SMTP Password:** Create an app password named "SMTP" in the password creation section and copy it.
+
+
+**4. SMTP Password Ready:** Your SMTP password is now ready to be used with the software.
+
+
 ### mail.txt File Format
 
 The `mail.txt`  file should be formatted as follows:
