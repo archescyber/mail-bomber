@@ -9,7 +9,7 @@ This project is a Python-based tool designed for sending mass emails. It allows 
 - Sends bulk emails to a list of recipients.
 - Allows users to utilize multiple email addresses to minimize the risk of being flagged as spam.
 - Configurable settings to customize the email content and delivery options.
-- Provides an option to read the `mail.txt` file, which contains email addresses and their corresponding SMTP keys.
+- Provides an option to read the `mail.txt`  file, which contains email addresses and their corresponding SMTP keys.
   
 ## Important Note
 
@@ -17,9 +17,9 @@ Users must ensure that they read and understand the `mail.txt` file format befor
 
 ### mail.txt File Format
 
-The `mail.txt` file should be formatted as follows:
+The `mail.txt`  file should be formatted as follows:
 
-- Each line should contain an entry in the format: `email:smtp_key`
+- Each line should contain an entry in the format:  `email:smtp_key`
   
 **Example:**
 ```
@@ -33,13 +33,14 @@ Make sure there are no extra spaces before or after the entries. Each email and 
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/archescyber/mail-bomber/
 
 2. Install the required dependencies:
 
+```
 pip install -r requirements.txt
-
+```
 
 
 ## Usage
