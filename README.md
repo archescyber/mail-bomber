@@ -33,9 +33,9 @@ Make sure there are no extra spaces before or after the entries. Each email and 
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/archescyber/mail-bomber/
-
+```
+git clone https://github.com/archescyber/mail-bomber/
+```
 2. Install the required dependencies:
 
 ```
