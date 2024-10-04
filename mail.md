@@ -10,10 +10,11 @@ The format for each entry should be: email:smtp_key
 
 
 ## Example:
-
+```
 example1@example.com:smtp_key_1
 example2@example.com:smtp_key_2
 example3@example.com:smtp_key_3
+```
 
 ## Guidelines:
 
