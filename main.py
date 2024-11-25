@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-import smtplib                                                                                                                                          import sys
+import smtplib
+import sys
 from time import sleep
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
