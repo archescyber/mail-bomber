@@ -6,7 +6,6 @@ This project is a Python-based tool designed for sending mass emails. It allows 
 
 ## Vısual
 
-![IMG_20241014_180710](https://github.com/user-attachments/assets/7054360a-380f-4a13-b497-5647016f08c3)
 ![Screenshot_2024-11-26-00-34-14-175_com termux-edit](https://github.com/user-attachments/assets/1fd76585-232f-4af2-9a4a-a544163944de)
 
 
