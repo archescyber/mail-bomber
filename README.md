@@ -50,29 +50,17 @@ Make sure there are no extra spaces before or after the entries. Each email and 
 
 ## Installation
 
-1. Clone the repository:
++ Clone the repository:
 
 ```
 git clone https://github.com/archescyber/mail-bomber/
 ```
-2. Install the required dependencies:
-
 ```
-pip install -r requirements.txt
+cd Mail-Bomber
 ```
-
-
-## Usage
-
-1. Run the script:
-
 ```
 python main.py
 ```
-
-2. The tool will send emails according to the configurations specified in the mail.txt file.
-
-
 
 ## Important Notes
 
